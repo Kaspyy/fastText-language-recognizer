@@ -343,6 +343,304 @@ __label__french Un ami dans le besoin est un ami de vérité.
 __label__french Un point à temps en économise neuf.
 __label__french Une image vaut mille mots.
 __label__french Une pierre qui roule ne ramasse pas de mousse.
+ __label__french Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent.
+ __label__french Je ne supporte pas ce type.
+ __label__french Pour une fois dans ma vie je fais un bon geste... Et ça ne sert à rien.
+ __label__french Ne tenez aucun compte de ce qu'il dit.
+ __label__french Essayons quelque chose !
+ __label__french Qu'est-ce que tu fais ?
+ __label__french Qu'est-ce que c'est ?
+ __label__french Aujourd'hui nous sommes le 18 juin et c'est l'anniversaire de Muiriel !
+ __label__french Joyeux anniversaire Muiriel !
+ __label__french Muiriel a 20 ans maintenant.
+ __label__french Le mot de passe est Muiriel.
+ __label__french Je serai bientôt de retour.
+ __label__french Je ne sais pas.
+ __label__french J'en perds mes mots.
+ __label__french Ça ne va jamais finir.
+ __label__french Je ne sais simplement pas quoi dire...
+ __label__french C’était un méchant lapin.
+ __label__french J'étais dans les montagnes.
+ __label__french Est-ce que c'est une photo récente ?
+ __label__french Je ne sais pas si j'ai le temps.
+ __label__french Pour une certaine raison le microphone ne marchait pas tout à l'heure.
+ __label__french Tout le monde doit apprendre par soi-même en fin de compte.
+ __label__french L'éducation dans ce monde me déçoit.
+ __label__french L'apprentissage ne devrait pas être forcé. L'apprentissage devrait être encouragé.
+ __label__french C'est une tâche difficile, choisir ce qui est « bon ou mauvais, mais il faut le faire.
+ __label__french Ça ne changera rien.
+ __label__french Ça coûtera 30 €.
+ __label__french Je gagne 100 € par jour.
+ __label__french Il se peut que j'abandonne bientôt et fasse une sieste à la place.
+ __label__french C'est parce que tu ne veux pas être seul.
+ __label__french Ça n'arrivera pas.
+ __label__french Parfois il peut être un gars bizarre.
+ __label__french Je ferai de mon mieux pour ne pas perturber tes révisions.
+ __label__french Je ne peux que me demander si c'est la même chose pour tous les autres.
+ __label__french Je suppose que c'est différent quand tu y penses à long terme.
+ __label__french Ne t'inquiète pas.
+ __label__french Tu me manques.
+ __label__french Je les appellerai demain quand je reviendrai.
+ __label__french J'ai toujours plus apprécié les personnages mystérieux.
+ __label__french Tu devrais dormir.
+ __label__french Je leur ai dit de m'envoyer un autre ticket.
+ __label__french Tu es tellement impatiente avec moi.
+ __label__french Je ne peux pas vivre comme ça.
+ __label__french Il fut un temps où je voulais être astrophysicien.
+ __label__french Je n'ai jamais aimé la biologie.
+ __label__french La dernière personne à qui j'ai raconté mon idée a pensé que j'étais cinglé.
+ __label__french Si le monde n'était pas dans l'état où il est maintenant, je pourrais faire confiance à n'importe qui.
+ __label__french C'est malheureusement vrai.
+ __label__french Ils sont trop occupés à se battre entre eux pour s'occuper d'idéaux communs.
+ __label__french La plupart des gens pensent que je suis fou.
+ __label__french Non je ne le suis pas, c'est toi qui l'es !
+ __label__french C'est ma réplique !
+ __label__french Il me donne des coups de pied !
+ __label__french Est-ce que tu es sûr ?
+ __label__french Alors il y a un problème...
+ __label__french Oh, il y a un papillon !
+ __label__french Dépêche-toi !
+ __label__french Ça ne me surprend pas.
+ __label__french Si je pouvais être comme ça...
+ __label__french Pour une raison que j'ignore, je me sens plus vivant la nuit.
+ __label__french Ça dépend du contexte.
+ __label__french Est-ce que tu te fous de moi ? !
+ __label__french C'est la chose la plus stupide que j'ai jamais dite.
+ __label__french Je ne veux pas être lamentable, je veux être cool ! !
+ __label__french Quand je serai grand, je veux être roi.
+ __label__french L'Amérique est un endroit charmant pour vivre, si c'est pour gagner de l'argent.
+ __label__french Je suis si gros.
+ __label__french Et alors ?
+ __label__french Je vais le descendre.
+ __label__french Je ne suis pas un vrai poisson, je ne suis qu'une simple peluche.
+ __label__french Je ne fais que parler !
+ __label__french C'était probablement ce qui a influencé leur décision.
+ __label__french Je me suis toujours demandé ce que ça ferait d'avoir des frères et sœurs.
+ __label__french C'est ce que j'aurais dit.
+ __label__french Ça me prendrait l'éternité pour tout expliquer.
+ __label__french C'est parce que tu es une fille.
+ __label__french Parfois je ne peux pas m'empêcher de montrer des émotions.
+ __label__french C'est un mot pour lequel j'aimerais trouver un substitut.
+ __label__french Ce serait quelque chose qu'il faudrait que je programme.
+ __label__french Il n'est pas dans mon intention d'être égoïste.
+ __label__french Réfléchissons au pire qui pourrait arriver.
+ __label__french Combien d'amis proches est-ce que tu as ?
+ __label__french Il se peut que je sois antisocial, mais ça ne veut pas dire pas que je ne parle pas aux gens.
+ __label__french C'est toujours tel que ça a été.
+ __label__french Je pense que c'est mieux de ne pas être impoli.
+ __label__french On peut toujours trouver du temps.
+ __label__french Je serais malheureux, mais je ne me suiciderais pas.
+ __label__french À l'époque du lycée je me levais à 6h tous les matins.
+ __label__french Quand je me suis réveillé j'étais triste.
+ __label__french C’est ce qui est expliqué à la fin.
+ __label__french Je pensais que tu aimais apprendre de nouvelles choses.
+ __label__french La plupart des gens écrivent à propos de leur vie quotidienne.
+ __label__french Si je pouvais t'envoyer un marshmallow, Trang, je le ferais.
+ __label__french Pour faire cela, il te faut prendre des risques.
+ __label__french Chaque personne qui est seule est seule parce qu'elle a peur des autres.
+ __label__french Pourquoi demandes-tu ?
+ __label__french Je ne suis pas un artiste. Je n'ai jamais eu l'esprit pour ça.
+ __label__french Je ne peux pas lui dire maintenant. Ce n’est pas si simple.
+ __label__french Je suis une personne qui a des défauts, mais ces défauts peuvent être facilement corrigés.
+ __label__french Chaque fois que je trouve quelque chose que j'aime, c'est trop cher.
+ __label__french Combien de temps es-tu restée ?
+ __label__french Peut-être que ce sera la même chose pour lui.
+ __label__french L'innocence est une belle chose.
+ __label__french Les humains n'ont jamais été faits pour vivre éternellement.
+ __label__french Je ne veux pas perdre mes idées, même si certaines d'entre elles sont un peu extrêmes.
+ __label__french Je pense que j'ai une théorie à ce sujet.
+ __label__french C'est intrigant.
+ __label__french Tu es en train de dire que tu caches intentionnellement ta beauté ?
+ __label__french Je n’ai pas de compte sur ces forums.
+ __label__french Si quelqu'un devait demander quel est le but de l'histoire, je ne saurais vraiment pas.
+ __label__french Je ne savais pas d'où ça venait.
+ __label__french Je pense que le fait que j'ai vécu avec toi a influencé la façon dont tu vis.
+ __label__french Ce n'est pas important.
+ __label__french Je n'ai pas aimé.
+ __label__french Elle demande comment c’est possible.
+ __label__french Tu ne fais que fuir les problèmes de la vie.
+ __label__french Si tu regardes les paroles, elles ne signifient pas vraiment grand-chose.
+ __label__french Il y a un problème que tu ne vois pas.
+ __label__french Tu peux le faire !
+ __label__french Mon prof de physique s'en fiche si je sèche les cours.
+ __label__french J'aimerais bien pouvoir aller au Japon.
+ __label__french Je déteste ça quand il y a trop de gens.
+ __label__french Je dois aller au lit.
+ __label__french Après ça, je pars, mais je me rends compte que j'ai oublié mon sac chez eux.
+ __label__french Je ne t'en demanderai pas plus pour aujourd'hui.
+ __label__french Il se peut qu'il gèle la semaine prochaine.
+ __label__french Même s'il s'est excusé, je suis encore en colère.
+ __label__french La police vous fera trouver les balles.
+ __label__french Merci de m'avoir expliqué finalement pourquoi on me prend pour une imbécile.
+ __label__french Ce n'était pas mon intention.
+ __label__french Merci pour ton explication.
+ __label__french Théoriquement, je suis en train de faire des maths.
+ __label__french Qu'est-ce qui s'est passé ?
+ __label__french Ça m'a presque fait peur de ne pas te voir connectée pendant toute une journée.
+ __label__french Je ne sais pas ce que tu veux dire.
+ __label__french Il faut bien que mon ordinateur me serve à quelque chose.
+ __label__french Tu voulais me parler de liberté ?
+ __label__french Euh, là c'est vraiment bizarre...
+ __label__french Si je voulais te faire peur, je te raconterais ce dont j'ai rêvé il y a quelques semaines.
+ __label__french On ne peut pas tout attendre des écoles.
+ __label__french Il y a beaucoup de mots que je ne comprends pas.
+ __label__french Je n'aime pas quand les mathématiciens qui en savent beaucoup plus que moi ne savent pas s'exprimer explicitement.
+ __label__french T'es vraiment pas bête.
+ __label__french Je dois te poser une question idiote.
+ __label__french Je ne sais pas comment le démontrer vu que c'est trop évident !
+ __label__french J'aurais pas imaginé qu'un jour j'irais chercher « viagra » dans Wikipédia.
+ __label__french Est-ce qu'on peut formuler ça d'une autre manière ?
+ __label__french Personne ne saura.
+ __label__french J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne.
+ __label__french Ça me paraît intéressant !
+ __label__french Sauf que là, c'est pas si simple.
+ __label__french Moi, j'aime bien la lumière des bougies.
+ __label__french Qu'est-ce que tu as répondu ?
+ __label__french Non, c'est pas mon nouveau petit ami.
+ __label__french C'est dommage que je n'aie pas besoin de maigrir.
+ __label__french T'as jamais cours ou quoi ? !
+ __label__french Je vais donc jouer au Sudoku au lieu de continuer de te déranger.
+ __label__french Où est le problème ?
+ __label__french Je ne peux qu'attendre.
+ __label__french Ce n'est pas tellement une surprise, non ?
+ __label__french Je t'aime !
+ __label__french Je ne t'aime plus.
+ __label__french Je suis curieux.
+ __label__french Félicitations.
+ __label__french Je ne veux pas attendre aussi longtemps.
+ __label__french Pourquoi ne viens-tu pas nous voir ?
+ __label__french Mais la possibilité semble improbable.
+ __label__french Je n'aurais pas dû me déconnecter.
+ __label__frenchnce un jour, je ne sais juste pas quand.
+ __label__french Je déteste la chimie.
+ __label__french Je ne voulais pas que ça arrive.
+ __label__french Tu devines probablement ce qui va arriver.
+ __label__french Avant même que tu ne le saches, tu seras dans les journaux.
+ __label__french Quelles autres options ai-je ?
+ __label__french Je ne suis pas un grand voyageur.
+ __label__french Je n'ai rien de mieux à faire.
+ __label__french Je ne peux pas l'expliquer non plus.
+ __label__french Tout le monde a ses forces et ses faiblesses.
+ __label__french Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire.
+ __label__french Ça montre seulement que tu n'es pas un robot.
+ __label__french Comment pourrais-je être un robot ? Les robots ne rêvent pas.
+ __label__french « Je n'y ai jamais pensé », dit le vieil homme. « Que devrions-nous faire ? »
+ __label__french Ce n'est pas quelque chose que n'importe qui peut faire.
+ __label__french Je ne sais pas si je l'ai encore.
+ __label__french Qu'est-ce que tu crois que j'étais en train de faire ?
+ __label__french Ne sous-estime pas ma puissance.
+ __label__french Ma maman ne parle pas très bien anglais.
+ __label__french Je me demandais si tu allais venir aujourd'hui.
+ __label__french C'est là que réside le problème.
+ __label__french Comment trouves-tu de la nourriture dans l'espace ?
+ __label__french Vous n'avez rien à faire sauf vous faire confiance.
+ __label__french Tout le monde veut te rencontrer, tu es célèbre !
+ __label__french Pourquoi es-tu désolée pour quelque chose que tu n'as pas fait ?
+ __label__french Je déteste absolument l'écriture formelle !
+ __label__french Les étrangers m'intriguent.
+ __label__french Quoique je fasse, elle dit que je peux faire mieux.
+ __label__french Qu'est-ce qui te retient éveillé si tard ?
+ __label__french Tu serais surprise de ce que tu peux apprendre en une semaine.
+ __label__french Je n'ai personne qui veuille voyager avec moi.
+ __label__french La vie est dure, mais je suis encore plus dur.
+ __label__french Supporter peut être insupportable.
+ __label__french Arrête ! Tu la mets mal à l'aise !
+ __label__french Rien n'est beau que le vrai.
+ __label__french Demain, il va alunir.
+ __label__french Je ne parle pas japonais.
+ __label__french C’est un jeu de mots.
+ __label__french Personne ne me comprend.
+ __label__french J'ai appris à vivre sans elle.
+ __label__french Ça ne sert plus à rien de continuer à réfléchir.
+ __label__french J'ai trop de choses dans la tête ces jours-ci.
+ __label__french Je voulais juste vérifier mes emails.
+ __label__french Est-ce que tu as vraiment besoin de poser la question pour connaître la réponse ?
+ __label__french Tu peux pas attendre de moi que je pense toujours à tout !
+ __label__french Je suppose que derrière chaque chose que l'on doit faire, il y a quelque chose que l'on veut faire...
+ __label__french T'as vraiment pas les bonnes priorités !
+ __label__french N'attends pas que les autres pensent pour toi !
+ __label__french Tu n'as jamais le temps pour les choses importantes !
+ __label__french Ce n'est pas la peine de faire semblant de me faire croire que je crois des choses que tu ne crois pas !
+ __label__french Ça me prendrait trop de temps pour t'expliquer pourquoi ça ne va pas marcher.
+ __label__french Je suis trop bête... J'essaie de t'expliquer des choses que je ne comprends pas moi-même.
+ __label__french Arrête de me considérer comme quelqu'un de « normal » !
+ __label__french Tu pourrais au moins essayer d'être un peu plus poli, même si ce n'est pas dans ta nature.
+ __label__french Il y aura toujours des choses que je n'apprendrai jamais, je n'ai pas l'éternité devant moi !
+ __label__french C'est pas possible !
+ __label__french J'aimerais pouvoir m'inquiéter plus pour mes notes mais il semblerait qu'à un certain moment de ma vie, j'ai décidé que cela n'était finalement pas si important.
+ __label__french « Pierre qui roule n'amasse pas mousse » est un proverbe.
+ __label__french Veux-tu quelque chose à boire ?
+ __label__french Qui est-ce ? C'est ta mère.
+ __label__french Quand vas-tu revenir ? Tout dépend du temps qu'il fera.
+ __label__french Qu'est-ce qui ne va pas ? demanda le petit lapin blanc.
+ __label__french Qu'est-ce qu'il se passe dans la grotte ? Je suis curieux. Je n'en ai aucune idée.
+ __label__french Quel est ton souhait ? demanda le petit lapin blanc.
+ __label__french Nous devons apprendre à vivre ensemble comme des frères, ou nous périrons ensemble comme des idiots.
+ __label__french Euh... Comment ça marche ?
+ __label__french Fais-moi confiance, dit-il.
+ __label__french C'est ce que j'étais en train de chercher, s'exclama-t-il.
+ __label__french Ça semble très intéressant, dit Hiroshi.
+ __label__french Il se peut que leur communication soit beaucoup plus complexe que nous le pensions.
+ __label__french Le téléphone sonne. Je vais répondre.
+ __label__french « C'est très gentil de votre part », répondit Willie.
+ __label__french Merci de m'aider. Il n'y a pas de quoi. »
+ __label__french Un jour je courrai comme le vent.
+ __label__french Elle aime la musique. Moi aussi.
+ __label__french S'il te plaît, ne pleure pas.
+ __label__french Fais-moi savoir s'il y a quoi que ce soit que je puisse faire.
+ __label__french Il se peut que le bonheur qui nous attend là-bas ne soit pas du tout le genre de bonheur que nous voudrions.
+ __label__french C'est à toi de décider si nous allons là-bas ou non.
+ __label__french Ça ne commence pas avant huit heures trente.
+ __label__french Je veux un bateau qui m'emmènera loin d'ici.
+ __label__french J'ai envie de jouer aux cartes. Moi aussi.
+ __label__french Ne nous sommes-nous pas rencontrés quelque part avant ? demanda l'étudiant.
+ __label__french Un Japonais ne ferait jamais une telle chose.
+ __label__french Allen est un poète.
+ __label__french L'archer tua le cerf.
+ __label__french Le communisme ne sera jamais atteint de mon vivant.
+ __label__french Le seigle était appelé le grain de la pauvreté.
+ __label__french Dans les années 50, on citait les Finnois comme ayant les régimes alimentaires les moins sains du monde.
+ __label__french Si tu vois une faute alors corrige-la s'il te plaît.
+ __label__french Place le jeu de cartes sur la table en bois de chêne.
+ __label__french Les Allemands sont très ingénieux.
+ __label__french Si on ne mange pas, on meurt.
+ __label__french Comment épelles-tu pretty ?
+ __label__french Et si nous retournions à la maison ?
+ __label__french Je m'excuse, je ne peux pas rester longtemps.
+ __label__french 10 ans est une longue période à attendre.
+ __label__french « Pourquoi tu n'y vas pas ? » « Parce que je ne veux pas. »
+ __label__french Un million de personnes ont perdu la vie pendant la guerre.
+ __label__french Je suis venu à Tokyo il y a trois ans et ai vécu ici depuis.
+ __label__french J'ai vécu plus d'un mois à Nagoya.
+ __label__french Ce n'est pas rare du tout de vivre plus de 90 ans.
+ __label__french D'abord, je vais faire un schéma de mon nouveau site internet.
+ __label__french La démocratie est la pire forme de gouvernement, mis à part toutes les autres que l'on a essayées.
+ __label__french Quand on commence à ressembler à la photo de son passeport, on devrait partir en vacances.
+ __label__french C'était pas moi, commissaire !
+ __label__french Oh, mon pantalon blanc ! Il était neuf.
+ __label__french Avec autant de personnes autour de lui, il devint naturellement un peu nerveux.
+ __label__french En quittant la gare, j'ai vu un homme.
+ __label__french Et personne ne vous a aidé ?
+ __label__french T'es un ange !
+ __label__french Ils sont fous ces Madrilènes.
+ __label__french Eh bien, la nuit est très longue, n'est-ce pas ?
+ __label__french T'as eu de la chance parce qu'il ne t'a pas mordu.
+ __label__french Je t'ai manqué ?
+ __label__french Sont-ils tous identiques ?
+ __label__french Merci beaucoup !
+ __label__french S'il vous plaît, où sont les œufs ?
+ __label__french Je le prends.
+ __label__french C'est une surprise.
+ __label__french C’est une bonne idée !
+ __label__french Aller-retour ? Aller simple seulement.
+ __label__french C'est dommage quand quelqu'un meurt.
+ __label__french Ils restèrent bouche bée.
+ __label__french Putain ! C'est pas mal !
+ __label__french Remettre en forme après lavage.
+ __label__french Laver avant de porter pour la première fois.
+ __label__french Ne pas ouvrir avant l'arrêt du train.
+ __label__french Ceux qui habitent des maisons de verre ne devraient pas lancer de pierres.
+ __label__french On dit que l'amour est aveugle.
 __label__german Abwesenheit macht das Herz schöner.
 __label__german Das Gras ist immer grüner auf der anderen Seite.
 __label__german Der frühe Vogel fängt den Wurm.
