@@ -18,8 +18,313 @@ __label__english The quick brown fox jumps over the lazy dog.
 __label__english The rain in Spain falls mainly on the plain.
 __label__english Time and tide wait for no man.
 __label__english Two heads are better than one.
+__label__english Let's try something.
+__label__english I have to go to sleep.
+__label__english Today is June 18th and it is Muiriel's birthday!
+__label__english Muiriel is 20 now.
+__label__english The password is Muiriel.
+__label__english I will be back soon.
+__label__english I'm at a loss for words.
+__label__english This is never going to end.
+__label__english I just don't know what to say.
+__label__english That was an evil bunny.
+__label__english I was in the mountains.
+__label__english Is it a recent picture?
+__label__english I don't know if I have the time.
+__label__english Education in this world disappoints me.
+__label__english You're in better shape than I am.
+__label__english You are in my way.
+__label__english This will cost €30.
+__label__english I make €100 a day.
+__label__english I may give up soon and just nap instead.
+__label__english It's because you don't want to be alone.
+__label__english That won't happen.
+__label__english Sometimes he can be a strange guy.
+__label__english I'll do my best not to disturb your studying.
+__label__english I can only wonder if this is the same for everyone else.
+__label__english I suppose it's different when you think about it over the long term.
+__label__english I miss you.
+__label__english I'll call them tomorrow when I come back.
+__label__english I always liked mysterious characters more.
+__label__english You should sleep.
+__label__english I'm going to go.
+__label__english I told them to send me another ticket.
+__label__english You're so impatient with me.
+__label__english I can't live that kind of life.
+__label__english I once wanted to be an astrophysicist.
+__label__english I never liked biology.
+__label__english The last person I told my idea to thought I was nuts.
+__label__english If the world weren't in the shape it is now, I could trust anyone.
+__label__english It is unfortunately true.
+__label__english They are too busy fighting against each other to care for common ideals.
+__label__english Most people think I'm crazy.
+__label__english No I'm not; you are!
+__label__english That's MY line!
+__label__english He's kicking me!
+__label__english Are you sure?
+__label__english Then there is a problem...
+__label__english Oh, there's a butterfly!
+__label__english Hurry up.
+__label__english It doesn't surprise me.
+__label__english For some reason I feel more alive at night.
+__label__english It depends on the context.
+__label__english Are you freaking kidding me?!
+__label__english That's the stupidest thing I've ever said.
+__label__english I don't want to be lame; I want to be cool!!
+__label__english When I grow up, I want to be a king.
+__label__english America is a lovely place to be, if you are here to earn money.
+__label__english I'm so fat.
+__label__english So what?
+__label__english I'm gonna shoot him.
+__label__english I'm not a real fish, I'm just a mere plushy.
+__label__english I'm just saying!
+__label__english That was probably what influenced their decision.
+__label__english I've always wondered what it'd be like to have siblings.
+__label__english This is what I would have said.
+__label__english It would take forever for me to explain everything.
+__label__english That's because you're a girl.
+__label__english Sometimes I can't help showing emotions.
+__label__english It's a word I'd like to find a substitute for.
+__label__english It would be something I'd have to program.
+__label__english I don't intend to be selfish.
+__label__english Let's consider the worst that could happen.
+__label__english How many close friends do you have?
+__label__english I may be antisocial, but it doesn't mean I don't talk to people.
+__label__english This is always the way it has been.
+__label__english I think it is best not to be impolite.
+__label__english One can always find time.
+__label__english I'd be unhappy, but I wouldn't kill myself.
+__label__english Back in high school, I got up at 6 a.m. every morning.
+__label__english When I woke up, I was sad.
+__label__english That is somewhat explained at the end.
+__label__english I thought you liked to learn new things.
+__label__english Most people write about their daily life.
+__label__english If I could send you a marshmallow, Trang, I would.
+__label__english In order to do that, you have to take risks.
+__label__english Every person who is alone is alone because they are afraid of others.
+__label__english Why do you ask?
+__label__english I am not an artist. I never had the knack for it.
+__label__english I can't tell her now. It's not that simple anymore.
+__label__english I am a flawed person, but these are flaws that can easily be fixed.
+__label__english Whenever I find something I like, it's too expensive.
+__label__english How long did you stay?
+__label__english Maybe it will be exactly the same for him.
+__label__english Innocence is a beautiful thing.
+__label__english Humans were never meant to live forever.
+__label__english I don't want to lose my ideas, even though some of them are a bit extreme.
+__label__english I think I have a theory about that.
+__label__english That is intriguing.
+__label__english You are saying you intentionally hide your good looks?
+__label__english I do not have an account in these forums.
+__label__english If anyone was to ask what the point of the story is, I really don't know.
+__label__english I didn't know where it came from.
+__label__english I think my living with you has influenced your way of living.
+__label__english This is not important.
+__label__english I didn't like it.
+__label__english She's asking how that's possible.
+__label__english You're just running away from life's problems.
+__label__english If you look at the lyrics, they don't really mean much.
+__label__english There's a problem there that you don't see.
+__label__english You can do it.
+__label__english My physics teacher doesn't care if I skip classes.
+__label__english I wish I could go to Japan.
+__label__english I hate it when there are a lot of people.
+__label__english I have to go to bed.
+__label__english After that, I left, but then I realized that I forgot my backpack at their house.
+__label__english I won't ask you anything else today.
+__label__english It may freeze next week.
+__label__english Even though he apologized, I'm still furious.
+__label__english The police will get you to find the bullets.
+__label__english Thanks for having explained to me at last why people take me for an idiot.
+__label__english That wasn't my intention.
+__label__english Thanks for your explanation.
+__label__english Theoretically, I'm doing math.
+__label__english If you didn't know me that way then you simply didn't know me.
+__label__english It almost scared me not to see you online for a whole day.
+__label__english I don't know what you mean.
+__label__english My computer has got to be useful for something.
+__label__english You wanted to tell me about freedom?
+__label__english Uh, now it's really weird...
+__label__english If I wanted to scare you, I would tell you what I dreamt about a few weeks ago.
+__label__english One can't expect everything from schools.
+__label__english There are many words that I don't understand.
+__label__english I don't like it when mathematicians who know much more than I do can't express themselves explicitly.
+__label__english You're really not stupid.
+__label__english I need to ask you a silly question.
+__label__english I don't know how to demonstrate it, since it's too obvious!
+__label__english I wouldn't have thought I would someday look up Viagra in Wikipedia.
+__label__english Can it be phrased in another way?
+__label__english No one will know.
+__label__english I found a solution, but I found it so fast that it can't be the right solution.
+__label__english It seems interesting to me.
+__label__english Except that here, it's not so simple.
+__label__english I like candlelight.
+__label__english What did you answer?
+__label__english No, he's not my new boyfriend.
+__label__english It's too bad that I don't need to lose weight.
+__label__english You never have class or what?!
+__label__english I will play Sudoku then instead of continuing to bother you.
+__label__english Where is the problem?
+__label__english I can only wait.
+__label__english It's not much of a surprise, is it?
+__label__english I love you.
+__label__english I don't like you anymore.
+__label__english I am curious.
+__label__english Congratulations!
+__label__english I don't want to wait that long.
+__label__english Why don't you come visit us?
+__label__english But the possibility seems unlikely.
+__label__english I shouldn't have logged off.
+__label__english I don't know what to do anymore.
+__label__english It is inevitable that I go to France someday, I just don't know when.
+__label__english I hate chemistry.
+__label__english I didn't want this to happen.
+__label__english You can probably guess what happens though.
+__label__english Next thing you know, you'll be in the papers.
+__label__english What other options do I have?
+__label__english I am not much of a traveller.
+__label__english I have nothing better to do.
+__label__english I can't explain it either.
+__label__english Seriously though, episode 21 made me almost cry while laughing.
+__label__english It only shows you're not a robot.
+__label__english How could I be a robot? Robots don't dream.
+__label__english It's not something anyone can do.
+__label__english I don't know if I still have it.
+__label__english What do you think I've been doing?
+__label__english Don't underestimate my power.
+__label__english I don't speak French well enough!
+__label__english I was wondering if you were going to show up today.
+__label__english Therein lies the problem.
+__label__english How do you find food in outer space?
+__label__english All you can do is trust one another.
+__label__english Everyone wants to meet you. You're famous!
+__label__english Why are you sorry for something you haven't done?
+__label__english I utterly despise formal writing!
+__label__english Foreign people intrigue me.
+__label__english Whatever I do, she says I can do better.
+__label__english What keeps you up so late?
+__label__english You'd be surprised what you can learn in a week.
+__label__english I don't have anyone who'd travel with me.
+__label__english You're not fast enough.
+__label__english Life is hard, but I am harder.
+__label__english Bearing can be unbearable.
+__label__english Stop it! You're making her feel uncomfortable!
+__label__english Nothing is beautiful but the truth.
+__label__english Tomorrow, he will land on the moon.
+__label__english I don't speak Japanese.
+__label__english This is a pun.
+__label__english Nobody understands me.
+__label__english I learned to live without her.
+__label__english It's useless to keep on thinking any more.
+__label__english I have too many things on my mind these days.
+__label__english I just wanted to check my email.
+__label__english Do you really need to ask the question to know the answer?
+__label__english You can't expect me to always think of everything!
+__label__english I suppose that behind each thing we have to do, there's something we want to do...
+__label__english You really don't have the right priorities!
+__label__english Don't expect others to think for you!
+__label__english You never have time for important things!
+__label__english It's no use pretending to make me believe that I believe things you don't believe!
+__label__english It would take me too much time to explain to you why it's not going to work.
+__label__english I'm so dumb... I'm trying to explain things to you that I don't understand myself.
+__label__english Stop seeing me as a normal person!
+__label__english Are you referring to me?
+__label__english There will always be things I will never learn, I don't have eternity before me!
+__label__english It can't be!
+__label__english I wish I could care more about my grades but it seems that, at a certain point of my life, I decided they wouldn't be so important anymore.
+__label__english A rolling stone gathers no moss is a proverb.
+__label__english Would you like something to drink?
+__label__english Who is it? It's your mother.
+__label__english When will you be back? It all depends on the weather.
+__label__english What's the matter? asked the little white rabbit.
+__label__english What's going on in the cave? I'm curious. I have no idea.
+__label__english We must learn to live together as brothers, or we will perish together as fools.
+__label__english Uh... How's that working?
+__label__english To tell you the truth, I am scared of heights. You are a coward!
+__label__english Trust me, he said.
+__label__english This is what I was looking for! he exclaimed.
+__label__english This looks pretty interesting, Hiroshi says.
+__label__english Their communication may be much more complex than we thought.
+__label__english The phone is ringing. I'll get it.
+__label__english That's very nice of you, Willie answered.
+__label__english Thank you for helping me. Don't mention it.
+__label__english Someday I'll run like the wind.
+__label__english She likes music. So do I.
+__label__english Please don't cry.
+__label__english Let me know if there is anything I can do.
+__label__english It may be that the happiness awaiting us is not at all the sort of happiness we would want.
+__label__english It is up to you to decide whether we will go there or not.
+__label__english Class doesn't begin until eight-thirty.
+__label__english I want a boat that will take me far away from here.
+__label__english I feel like playing cards. So do I.
+__label__english Haven't we met somewhere before? asked the student.
+__label__english A Japanese would never do such a thing.
+__label__english Allen is a poet.
+__label__english The archer killed the deer.
+__label__english Communism will never be reached in my lifetime.
+__label__english Rye was called the grain of poverty.
+__label__english In the 1950's, the Finns were cited as having one of the least healthy diets in the world.
+__label__english If you see a mistake, then please correct it.
+__label__english Place the deck of cards on the oaken table.
+__label__english The Germans are very crafty.
+__label__english If you don't eat, you die.
+__label__english How do you spell pretty?
+__label__english Why don't we go home?
+__label__english I'm sorry, I can't stay long.
+__label__english Ten years is a long time to wait.
+__label__english Why aren't you going? Because I don't want to.
+__label__english One million people lost their lives in the war.
+__label__english It is not rare at all to live over ninety years.
+__label__english First, I'm going to do an outline of my new website.
+__label__english Democracy is the worst form of government, except all the others that have been tried.
+__label__english When you're beginning to look like the photo in your passport, you should go on a holiday.
+__label__english It wasn't me, commissioner!
+__label__english Oh, my white pants! And they were new.
+__label__english With so many people around he naturally became a bit nervous.
+__label__english When I left the train station, I saw a man.
+__label__english You're an angel!
+__label__english People from Madrid are weird.
+__label__english Well, the night is quite long, isn't it?
+__label__english You're lucky because he didn't bite you.
+__label__english Did you miss me?
+__label__english Are they all the same?
+__label__english Thank you very much!
+__label__english Where are the eggs, please?
+__label__english I'll take him.
+__label__english It's a surprise.
+__label__english That's a good idea!
+__label__english Round trip? Only one-way.
+__label__english It's a pity when somebody dies.
+__label__english They were left speechless.
+__label__english Damn! It's not bad!
+__label__english Pull into shape after washing.
+__label__english Wash before first wearing.
+__label__english Don't open before the train stops.
+__label__english Those who live in glass houses should not throw stones.
+__label__english They say love is blind.
+__label__english Oh, I'm sorry.
+__label__english Math is like love: a simple idea, but it can get complicated.
+__label__english The only useful answers are those that raise new questions.
+__label__english To have doubts about oneself is the first sign of intelligence.
+__label__english Poor is not the one who has too little, but the one who wants too much.
+__label__english Seeing that you're not surprised, I think you must have known.
+__label__english How long does it take to get to the station?
+__label__english This will be a good souvenir of my trip around the United States.
+__label__english Excuse me; allow me to point out three errors in the above article.
+__label__english It is difficult to keep up a conversation with someone who only says yes and no.
+__label__english Do you speak Italian?
+__label__english I can't think with that noise, she said, as she stared at the typewriter.
+__label__english It is said that Hamlet is the most interesting play ever written.
+__label__english May I ask a question?
+__label__english How do you feel? he inquired.
+__label__english It's quite difficult to master French in 2 or 3 years.
+__label__english It's impossible for me to explain it to you.
+__label__english I don't want to spend the rest of my life regretting it.
+__label__french Aide-toi, le ciel t'aidera.
+__label__french Aidez-vous, le ciel vous aidera.
 __label__french Deux têtes valent mieux qu'une.
 __label__french Elle vend des coquillages sur le bord de la mer.
+__label__french Elle vend des coquillages sur la plage.
 __label__french Je suis venu, j'ai vu, j'ai vaincu.
 __label__french L'absence rend le coeur plus tendre.
 __label__french L'herbe est toujours plus verte de l'autre côté.
@@ -41,8 +346,11 @@ __label__french Une pierre qui roule ne ramasse pas de mousse.
 __label__german Abwesenheit macht das Herz schöner.
 __label__german Das Gras ist immer grüner auf der anderen Seite.
 __label__german Der frühe Vogel fängt den Wurm.
+__label__german Der Hase ist schneller als der Fuchs.
+__label__german Der Hase ist schneller als der Hase.
 __label__german Der Regen in Spanien fällt hauptsächlich auf der Ebene.
 __label__german Der schnelle braune Fuchs springt über den faulen Hund.
+__label__german Die Aktionen sprechen lauter als Worte.
 __label__german Die besten Dinge im Leben sind kostenlos.
 __label__german Die Feder ist mächtiger als das Schwert.
 __label__german Die Neugierde hat die Katze getötet.
@@ -62,6 +370,7 @@ __label__spanish Buenas cosas llegan a quienes esperan.
 __label__spanish Dos cabezas piensan más que una.
 __label__spanish El césped siempre es más verde del otro lado.
 __label__spanish El que madruga, Dios lo ayuda.
+__label__spanish El que ríe último, ríe mejor.
 __label__spanish El tiempo y la marea no esperan a nadie.
 __label__spanish El zorro marrón rápido salta sobre el perro perezoso.
 __label__spanish Ella vende conchas de mar en la orilla del mar.
