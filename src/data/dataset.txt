@@ -664,6 +664,306 @@ __label__german Sie verkauft Meerschnecken am Meerstrand.
 __label__german Taten sprechen lauter als Worte.
 __label__german Zeit und Flut warten auf keinen Mann.
 __label__german Zwei Köpfe sind besser als einer.
+__label__german	Lass uns etwas versuchen!
+__label__german	Ich muss schlafen gehen.
+__label__german	Was ist das?
+__label__german	Heute ist der 18. Juni und das ist der Geburtstag von Muiriel!
+__label__german	Herzlichen Glückwunsch zum Geburtstag, Muiriel!
+__label__german	Muiriel ist jetzt 20.
+__label__german	Das Passwort ist "Muiriel".
+__label__german	Ich werde bald zurück sein.
+__label__german	Ich finde keine Worte.
+__label__german	Das wird nie enden.
+__label__german	Ich weiß einfach nicht, was ich sagen soll.
+__label__german	Das war ein böses Kaninchen.
+__label__german	Ich war in den Bergen.
+__label__german	Ich weiß nicht, ob ich Zeit dazu habe.
+__label__german	Aus irgendeinem Grund hat das Mikrofon gerade nicht funktioniert.
+__label__german	Letztendlich muss jeder selbst lernen.
+__label__german	Die Ausbildung in dieser Welt enttäuscht mich.
+__label__german	Zum Lernen sollte man nicht gezwungen werden. Zum Lernen sollte man ermutigt werden.
+__label__german	Es ist eine schwere Aufgabe, zwischen "richtig" und "falsch" zu unterscheiden, aber man muss es tun.
+__label__german	Das wird nichts ändern.
+__label__german	Das wird 30 € kosten.
+__label__german	Ich verdiene 100 Euro pro Tag.
+__label__german	Es kann sein, dass ich bald aufgebe und stattdessen ein Nickerchen mache.
+__label__german	Das liegt daran, dass du nicht allein sein willst.
+__label__german	Das wird nicht passieren.
+__label__german	Manchmal kann er ein seltsamer Junge sein.
+__label__german	Ich werde mir Mühe geben, dich nicht beim Lernen zu stören.
+__label__german	Ich kann mich nur fragen, ob es für alle anderen dasselbe ist.
+__label__german	Ich vermute, das ist anders, wenn du darüber längerfristig nachdenkst.
+__label__german	Mach dir keine Sorgen.
+__label__german	Ich vermisse dich.
+__label__german	Ich werde sie morgen anrufen, wenn ich zurückkomme.
+__label__german	Ich mochte mysteriöse Charaktere schon immer mehr.
+__label__german	Du solltest schlafen.
+__label__german	Ich sagte ihnen, sie sollen mir ein neues Ticket schicken.
+__label__german	Du bist so ungeduldig mit mir.
+__label__german	Ich kann so ein Leben nicht leben.
+__label__german	Ich wollte mal Astrophysiker werden.
+__label__german	Ich mochte Biologie noch nie.
+__label__german	Die letzte Person, der ich meine Idee erzählt habe, dachte, ich wäre bekloppt.
+__label__german	Wenn die Welt nicht so wäre wie sie jetzt ist, könnte ich jedem vertrauen.
+__label__german	Unglücklicherweise stimmt es.
+__label__german	Sie sind zu sehr damit beschäftigt, sich gegenseitig zu bekämpfen, als dass sie sich gemeinsamen Idealen widmen könnten.
+__label__german	Die meisten Leute denken, ich sei verrückt.
+__label__german	Nein, ich bin es nicht, du bist es!
+__label__german	Das war mein Satz!
+__label__german	Er tritt mich!
+__label__german	Bist du sicher?
+__label__german	Dann haben wir ein Problem...
+__label__german	Oh, da ist ein Schmetterling!
+__label__german	Beeil dich!
+__label__german	Es überrascht mich nicht.
+__label__german	Wenn ich so sein könnte...
+__label__german	Aus irgendeinem Grund fühle ich mich nachts lebendiger.
+__label__german	Das kommt auf den Zusammenhang an.
+__label__german	Willst du mich verdammt nochmal auf den Arm nehmen?!
+__label__german	Das ist das Dümmste, was ich je gesagt habe.
+__label__german	Ich will nicht erbärmlich sein, ich will cool sein!!
+__label__german	Wenn ich groß bin, will ich ein König sein.
+__label__german	Es ist wundervoll in Amerika zu sein, wenn man hier ist, um Geld zu verdienen.
+__label__german	Ich bin so dick.
+__label__german	Na und?
+__label__german	Ich werde ihn erschießen.
+__label__german	Ich bin kein echter Fisch, ich bin nur ein einfaches Plüschtier.
+__label__german	Ich sag's ja nur!
+__label__german	Wahrscheinlich war es das, was ihre Entscheidung beeinflusst hat.
+__label__german	Ich habe mich immer gefragt, wie es wäre, Geschwister zu haben.
+__label__german	Das hätte ich gesagt.
+__label__german	Es würde ewig dauern, alles zu erklären.
+__label__german	Es liegt daran, dass du ein Mädchen bist.
+__label__german	Manchmal kann ich es nicht vermeiden, Gefühle zu zeigen.
+__label__german	Es ist ein Wort, für das ich gerne einen Ersatz finden würde.
+__label__german	Das wäre etwas, das ich programmieren sollte.
+__label__german	Ich beabsichtige nicht, selbstsüchtig zu sein.
+__label__german	Lass uns über das Schlimmste, das passieren könnte, nachdenken.
+__label__german	Wie viele enge Freunde hast du?
+__label__german	Ich bin vielleicht asozial, aber das heißt nicht, dass ich nicht mit Leuten rede.
+__label__german	Das ist immer so gewesen.
+__label__german	Ich denke, es ist am besten, nicht unhöflich zu sein.
+__label__german	Man kann immer Zeit finden.
+__label__german	Ich wäre unglücklich, aber ich würde keinen Selbstmord begehen.
+__label__german	Damals im Gymnasium bin ich jeden Morgen um 6 Uhr aufgestanden.
+__label__german	Als ich aufgewacht bin, war ich traurig.
+__label__german	Das ist am Ende einigermaßen erklärt.
+__label__german	Ich dachte, du würdest gerne neue Sachen lernen.
+__label__german	Die meisten Menschen schreiben über ihr Alltagsleben.
+__label__german	Wenn ich dir ein Marshmallow schicken könnte, Trang, würde ich es tun.
+__label__german	Um das zu tun, musst du Risiken eingehen.
+__label__german	Jeder Mensch, der allein ist, ist allein, weil er Angst vor den anderen hat.
+__label__german	Warum fragst du?
+__label__german	Ich bin kein Künstler. Ich hatte niemals das Zeug dazu.
+__label__german	Ich kann es ihr jetzt nicht sagen. Das ist nicht mehr so einfach.
+__label__german	Ich bin ein Mensch, der viele Fehler hat, aber diese Fehler können leicht korrigiert werden.
+__label__german	Immer, wenn ich etwas finde, das mir gefällt, ist es zu teuer.
+__label__german	Wie lange bist du geblieben?
+__label__german	Vielleicht wird es für ihn genauso sein.
+__label__german	Unschuld ist eine schöne Sache.
+__label__german	Die Menschen waren nie dazu gedacht, ewig zu leben.
+__label__german	Ich will meine Ideen nicht verlieren, selbst wenn einige von ihnen ein bisschen extrem sind.
+__label__german	Ich denke, ich habe dazu eine Theorie.
+__label__german	Das macht neugierig.
+__label__german	Meinst du gerade, dass du absichtlich deine Schönheit versteckst?
+__label__german	Ich habe kein Konto in diesen Foren.
+__label__german	Wenn jemand fragen sollte, was die Pointe der Geschichte sei, ich wüsste es wirklich nicht.
+__label__german	Ich wusste nicht, woher es kam.
+__label__german	Ich denke, dass mein Zusammenleben mit dir deine Lebensweise beeinflusst hat.
+__label__german	Dies ist nicht wichtig.
+__label__german	Ich möchte es nicht.
+__label__german	Sie fragt, wie das möglich ist.
+__label__german	Du läufst einfach vor den Problemen des Lebens davon.
+__label__germantet er nicht wirklich viel.
+__label__german	Es gibt da ein Problem, das du nicht siehst.
+__label__german	Du kannst das machen!
+__label__german	Meinem Physiklehrer ist es egal, wenn ich den Unterricht schwänze.
+__label__german	Ich wünschte, ich könnte nach Japan gehen.
+__label__german	Ich hasse es, wenn viele Leute da sind.
+__label__german	Ich muss ins Bett gehen.
+__label__german	Danach gehe ich, aber dann merke ich, dass ich meinen Rucksack vergessen habe.
+__label__german	Ich werde dich heute nichts mehr fragen.
+__label__german	Nächste Woche wird es vielleicht Frost geben.
+__label__german	Obwohl er sich entschuldigt hat, bin ich immer noch wütend.
+__label__german	Die Polizei wird euch dazu bringen, die Kugeln zu finden.
+__label__german	Danke, dass Sie mir letzten Endes erklärt haben, warum die Leute mich für einen Idioten halten.
+__label__german	Das war nicht meine Absicht.
+__label__german	Danke für Ihre Erklärung.
+__label__german	Theoretisch mache ich gerade Mathe.
+__label__german	Was passierte?
+__label__german	Wenn du mich nicht so gekannt hast, dann hast du mich einfach gar nicht gekannt.
+__label__german	Es hat mir fast Angst gemacht, dich einen ganzen Tag nicht online zu sehen.
+__label__german	Ich weiß nicht, was du meinst.
+__label__german	Mein Computer muss mir zu etwas nützen.
+__label__german	Du wolltest mit mir über Freiheit sprechen?
+__label__german	Oh, jetzt ist es wirklich verwirrend...
+__label__german	Wenn ich dich erschrecken wollte, würde ich dir erzählen, was ich vor ein paar Wochen geträumt habe.
+__label__german	Man kann nicht alles von den Schulen erwarten.
+__label__german	Es gibt viele Wörter, die ich nicht verstehe.
+__label__german	Ich mag es nicht, wenn Mathematiker, die viel mehr als ich wissen, sich nicht genau ausdrücken können.
+__label__german	Du bist nicht wirklich dumm.
+__label__german	Ich muss dir eine dumme Frage stellen.
+__label__german	Ich weiß nicht, wie ich es beweisen soll, so selbstverständlich wie es ist!
+__label__german	Ich hätte nicht gedacht, dass ich eines Tages bei Wikipedia "Viagra" nachschauen würde.
+__label__german	Kann man das anders ausdrücken?
+__label__german	Niemand wird's erfahren.
+__label__german	Ich habe eine Lösung gefunden, aber ich habe sie so schnell gefunden, dass es nicht die richtige Lösung sein kann.
+__label__german	Das scheint mir interessant!
+__label__german	Nur, dass es hier nicht so einfach ist.
+__label__german	Ich mag gerne Kerzenlicht.
+__label__german	Was hast du geantwortet?
+__label__german	Nein, er ist nicht mein neuer Freund.
+__label__german	Es ist schade, dass ich nicht abnehmen muss.
+__label__german	Hast du nie Unterricht oder was?!
+__label__german	Ich werde also Sudoku spielen, anstatt dich weiter zu stören.
+__label__german	Wo ist das Problem?
+__label__german	Das ist keine große Überraschung, oder?
+__label__german	Ich mag dich nicht mehr.
+__label__german	Ich bin neugierig.
+__label__german	Herzlichen Glückwunsch.
+__label__german	Ich will nicht so lange warten.
+__label__german	Warum kommst du uns nicht besuchen?
+__label__german	Aber die Möglichkeit scheint unwahrscheinlich.
+__label__german	Es war eine schlechte Idee, sich abzumelden.
+__label__german	Ich weiß nicht mehr, was ich tun soll.
+__label__german	Es ist unvermeidbar, dass ich eines Tages nach Frankreich gehe, ich weiß nur nicht, wann.
+__label__german	Ich hasse Chemie.
+__label__german	Ich wollte nicht, dass das passiert.
+__label__german	Du kannst vermutlich erahnen, was indessen passiert.
+__label__german	Bevor du dich versiehst, wirst du in der Zeitung sein.
+__label__german	Was für andere Optionen habe ich?
+__label__german	Ich habe nicht viel von einem Reisenden.
+__label__german	Ich habe nichts Besseres zu tun.
+__label__german	Ich kann es auch nicht erklären.
+__label__german	Aber im Ernst, die Episode 21 hat mich fast vor Lachen weinen lassen.
+__label__german	Es zeigt nur, dass du kein Roboter bist.
+__label__german	Wie könnte ich ein Roboter sein? Roboter träumen nicht.
+__label__german	"Daran habe ich nie gedacht", sagte der alte Mann. "Was sollen wir tun?"
+__label__german	Das ist nichts, was jeder Beliebige tun kann.
+__label__german	Ich weiß nicht, ob ich es noch habe.
+__label__german	Was denkst du, was ich gerade gemacht habe?
+__label__german	Unterschätze nicht meine Macht!
+__label__german	Meine Mutter spricht nicht sehr gut Englisch.
+__label__german	Ich spreche nicht gut genug Französisch!
+__label__german	Ich fragte mich, ob du heute kommen würdest.
+__label__german	Dort liegt das Problem.
+__label__german	Wie findest du Nahrung im Weltraum?
+__label__german	Ihr müsst nichts tun, außer euch zu vertrauen.
+__label__german	Alle wollen dich kennenlernen. Du bist berühmt!
+__label__german	Wieso tut dir etwas leid, das du nicht gemacht hast?
+__label__german	Ich verabscheue förmliches Schreiben zutiefst!
+__label__german	Ausländer machen mich neugierig.
+__label__german	Was auch immer ich tue, sie sagt, ich kann es besser.
+__label__german	Warum bist du um diese Uhrzeit noch wach?
+__label__german	Du wärst überrascht, was man in einer Woche lernen kann.
+__label__german	Ich habe niemanden, der mit mir reisen würde.
+__label__german	Du bist nicht schnell genug.
+__label__german	Das Leben ist hart, aber ich bin härter.
+__label__german	Ertragen kann unerträglich sein.
+__label__german	Hör auf! Sie fühlt sich dadurch unbehaglich!
+__label__german	Nur die Wahrheit ist schön.
+__label__german	Morgen wird er auf dem Mond landen.
+__label__german	Ich spreche kein Japanisch.
+__label__german	Das ist ein Wortspiel.
+__label__german	Niemand versteht mich.
+__label__german	Ich habe gelernt, ohne sie zu leben.
+__label__german	Das bringt nichts mehr, weiter nachzudenken.
+__label__german	Mir gehen in diesen Tagen zu viele Dinge durch den Kopf.
+__label__german	Ich wollte gerade meine E-Mails abrufen.
+__label__german	Musst du wirklich die Frage stellen, um die Antwort zu erfahren?
+__label__german	Du kannst nicht von mir erwarten, dass ich immer an alles denke!
+__label__german	Ich vermute, dass es hinter jeder Sache, die wir tun müssen, etwas gibt, das wir tun wollen...
+__label__german	Du hast wirklich nicht die richtigen Prioritäten!
+__label__german	Man darf nicht darauf warten, dass die anderen für einen denken!
+__label__german	Du hast nie Zeit für die wichtigen Dinge!
+__label__german	Es ist die Mühe nicht wert, so zu tun, als würdest du mich dazu bringen zu glauben, dass ich Dinge glaube, die du nicht glaubst.
+__label__german	Das würde zu lange dauern, dir zu erklären, warum das nicht funktionieren wird.
+__label__german	Ich bin so blöd... ich versuche, dir Dinge zu erklären, die ich selbst nicht verstehe.
+__label__german	Hör auf, mich als einen "normalen" Menschen anzusehen!
+__label__german	Du könntest zumindest versuchen, ein bisschen höflicher zu sein, auch wenn das nicht in deiner Natur liegt.
+__label__german	Es gibt immer Dinge, die ich nie lernen werde, ich habe nicht ewig Zeit.
+__label__german	Das ist nicht möglich!
+__label__german	Ich wünschte, ich könnte mir mehr aus Noten machen, aber scheinbar habe ich an einem gewissen Punkt in meinem Leben entschieden, dass es nicht mehr so wichtig sei.
+__label__german	„Wer rastet, der rostet“ ist ein Sprichwort.
+__label__german	Willst du etwas zum Trinken?
+__label__german	"Wer ist es?" "Es ist deine Mutter."
+__label__german	„Wann wirst du zurückkommen?“ – „Das hängt ganz vom Wetter ab.“
+__label__german	„Was ist los?“ fragte das kleine weiße Kaninchen.
+__label__german	„Was passiert in der Höhle? Ich bin neugierig.“ – „Ich habe keine Ahnung.“
+__label__german	"Was ist dein Wunsch?", fragte das kleine weiße Kaninchen.
+__label__german	Wir müssen lernen, als Brüder zusammen zu leben, oder wir werden als Narren zusammen untergehen.
+__label__german	Öh, wie funktioniert das?
+__label__german	"Um die Wahrheit zu sagen, ich habe Höhenangst." "Du bist ein Angsthase!"
+__label__german	"Vertraue mir", sagte er.
+__label__german	„Danach habe ich gesucht“, erklärte er.
+__label__german	„Das sieht ziemlich interessant aus“, sagt Hiroshi.
+__label__german	Ihre Kommunikation ist vielleicht viel komplexer als wir dachten.
+__label__german	"Das Telefon klingelt." "Ich geh' dran."
+__label__german	"Das ist sehr nett von Ihnen", antwortete Willie.
+__label__german	„Danke für die Hilfe.“ – „Keine Ursache.“
+__label__german	Irgendwann werde ich wie der Wind rennen.
+__label__german	"Sie mag Musik." "Ich auch."
+__label__german	Lass es mich wissen, wenn es irgendetwas gibt, was ich tun kann.
+__label__german	Möglicherweise ist das Glück, das uns dort erwartet, überhaupt nicht die Art Glück, die wir uns wünschen würden.
+__label__german	Du entscheidest, ob wir dahin gehen oder nicht.
+__label__german	Das fängt nicht vor acht Uhr dreißig an.
+__label__german	Ich wünsche mir ein Boot, das mich weit weg von hier bringt.
+__label__german	„Ich habe Lust, Karten zu spielen.“ – „Ich auch.“
+__label__german	"Sind wir uns nicht schon einmal begegnet?", fragte der Student.
+__label__german	Ein Japaner würde so etwas nie tun.
+__label__german	Der Bogenschütze tötete den Hirsch.
+__label__german	Der Kommunismus wird nie erreicht werden, solange ich lebe.
+__label__german	Der Roggen wurde Arme-Leute-Getreide genannt.
+__label__german	In den 1950ern sagte man den Finnen nach, eine der ungesündesten Ernährungsweisen der Welt zu haben.
+__label__german	Wenn du einen Fehler siehst, dann korrigiere ihn bitte.
+__label__german	Lege das Kartenspiel auf den Eichentisch.
+__label__germantschen sind sehr listig.
+__label__german	Wenn man nicht isst, stirbt man.
+__label__german	Wie schreibt man "pretty"?
+__label__german	Wieso gehen wir nicht heim?
+__label__german	Es tut mir leid, ich kann nicht lange bleiben.
+__label__german	10 Jahre sind eine lange Zeit zum Warten.
+__label__german	„Wieso gehst du nicht?“ – „Weil ich nicht will.“
+__label__german	Eine Million Menschen haben im Krieg ihr Leben verloren.
+__label__german	Ich kam vor drei Jahren nach Tokyo und seither habe ich hier gelebt.
+__label__german	Ich habe mehr als einen Monat lang in Nagoya gelebt.
+__label__german	Es ist überhaupt nicht selten, länger als neunzig Jahre zu leben.
+__label__german	Zuerst werde ich ein Schema meiner neuen Website machen.
+__label__german	Demokratie ist die schlechteste Regierungsform, abgesehen von allen anderen, die ausprobiert wurden.
+__label__german	Wenn man beginnt, seinem Passfoto ähnlich zu sehen, sollte man in den Urlaub fahren.
+__label__german	Ich war's nicht, Kommissar!
+__label__german	Oh, meine weiße Hose! Sie war neu.
+__label__german	Bei so vielen Leuten wurde er natürlich etwas nervös.
+__label__german	Beim Verlassen des Bahnhofs sah ich einen Mann.
+__label__german	Und niemand hat Ihnen geholfen?
+__label__german	Du bist ein Engel!
+__label__german	Die Madrilenen sind verrückt.
+__label__german	Nun gut, die Nacht ist sehr lang, oder?
+__label__german	Du hast Glück gehabt, dass er dich nicht gebissen hat.
+__label__german	Hast du mich vermisst?
+__label__german	Sind sie alle gleich?
+__label__german	Vielen Dank!
+__label__german	Wo sind bitte die Eier?
+__label__german	Ich nehme ihn.
+__label__german	Das ist eine Überraschung.
+__label__german	Das ist eine gute Idee!
+__label__german	Hin- und Rückfahrt? Nur Hinfahrt.
+__label__german	Es ist schade, wenn jemand stirbt.
+__label__german	Der Mund blieb ihnen offen stehen.
+__label__german	Donnerwetter! Das ist nicht schlecht!
+__label__german	Nach der Wäsche in Form bringen.
+__label__german	Vor dem Tragen waschen.
+__label__german	Nicht öffnen, bevor der Zug hält.
+__label__german	Wer im Glashaus sitzt, sollte nicht mit Steinen werfen.
+__label__german	Man sagt, Liebe mache blind.
+__label__german	Oh, tut mir leid.
+__label__german	Mathe ist wie Liebe - eine einfache Idee, aber es kann kompliziert werden.
+__label__german	Antworten sind nur dann nützlich, wenn sie neue Fragen aufwerfen.
+__label__german	An sich selbst zu zweifeln, ist das erste Zeichen von Intelligenz.
+__label__german	Arm ist nicht, wer zu wenig besitzt, sondern, wer zu viel haben möchte.
+__label__german	Da du nicht überrascht bist, denke ich, musst du es gewusst haben.
+__label__german	Wie lange braucht man bis zum Bahnhof?
+__label__german	Das wird eine gute Erinnerung an meine Reise durch die Vereinigten Staaten sein.
 __label__spanish Buenas cosas llegan a quienes esperan.
 __label__spanish Dos cabezas piensan más que una.
 __label__spanish El césped siempre es más verde del otro lado.
