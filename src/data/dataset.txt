@@ -1,0 +1,80 @@
+__label__english The quick brown fox jumps over the lazy dog.
+__label__spanish El zorro marrón rápido salta sobre el perro perezoso.
+__label__french Le renard brun rapide saute par-dessus le chien paresseux.
+__label__german Der schnelle braune Fuchs springt über den faulen Hund.
+__label__english The rain in Spain falls mainly on the plain.
+__label__spanish La lluvia en España cae principalmente en la llanura.
+__label__french La pluie en Espagne tombe principalement sur la plaine.
+__label__german Der Regen in Spanien fällt hauptsächlich auf der Ebene.
+__label__english She sells sea shells by the sea shore.
+__label__spanish Ella vende conchas de mar en la orilla del mar.
+__label__french Elle vend des coquillages sur le bord de la mer.
+__label__german Sie verkauft Meerschnecken am Meerstrand.
+__label__english I came, I saw, I conquered.
+__label__spanish Vine, vi, vencí.
+__label__french Je suis venu, j'ai vu, j'ai vaincu.
+__label__german Ich kam, sah, siegte.
+__label__english A stitch in time saves nine.
+__label__spanish Un punto a tiempo ahorra nueve.
+__label__french Un point à temps en économise neuf.
+__label__german Ein Stich zur rechten Zeit erspart neun.
+__label__english Curiosity killed the cat.
+__label__spanish La curiosidad mató al gato.
+__label__french La curiosité a tué le chat.
+__label__german Die Neugierde hat die Katze getötet.
+__label__english Time and tide wait for no man.
+__label__spanish El tiempo y la marea no esperan a nadie.
+__label__french Le temps et la marée n'attendent personne.
+__label__german Zeit und Flut warten auf keinen Mann.
+__label__english A picture is worth a thousand words.
+__label__spanish Una imagen vale más que mil palabras.
+__label__french Une image vaut mille mots.
+__label__german Ein Bild sagt mehr als tausend Worte.
+__label__english Actions speak louder than words.
+__label__spanish Las acciones hablan más alto que las palabras.
+__label__french Les actes parlent plus fort que les mots.
+__label__german Taten sprechen lauter als Worte.
+__label__english Rome was not built in a day.
+__label__spanish Roma no se construyó en un día.
+__label__french Rome ne s'est pas construite en un jour.
+__label__german Rom wurde nicht an einem Tag erbaut.
+__label__english The early bird catches the worm.
+__label__spanish El que madruga, Dios lo ayuda.
+__label__french L'oiseau matinal attrape le ver.
+__label__german Der frühe Vogel fängt den Wurm.
+__label__english Two heads are better than one.
+__label__spanish Dos cabezas piensan más que una.
+__label__french Deux têtes valent mieux qu'une.
+__label__german Zwei Köpfe sind besser als einer.
+__label__english The pen is mightier than the sword.
+__label__spanish La pluma es más poderosa que la espada.
+__label__french La plume est plus puissante que l'épée.
+__label__german Die Feder ist mächtiger als das Schwert.
+__label__english The best things in life are free.
+__label__spanish Lo mejor de la vida es gratis.
+__label__french Les meilleures choses de la vie sont gratuites.
+__label__german Die besten Dinge im Leben sind kostenlos.
+__label__english A rolling stone gathers no moss.
+__label__spanish Una piedra que rueda no recoge musgo.
+__label__french Une pierre qui roule ne ramasse pas de mousse.
+__label__german Ein rollender Stein sammelt keinen Moos.
+__label__english Absence makes the heart grow fonder.
+__label__spanish La ausencia hace crecer el cariño.
+__label__french L'absence rend le coeur plus tendre.
+__label__german Abwesenheit macht das Herz schöner.
+__label__english All that glitters is not gold.
+__label__spanish No todo lo que brilla es oro.
+__label__french Tout ce qui brille n'est pas de l'or.
+__label__german Nicht alles, was glänzt, ist Gold.
+__label__english A friend in need is a friend indeed.
+__label__spanish Un amigo en el momento de necesidad es un verdadero amigo.
+__label__french Un ami dans le besoin est un ami de vérité.
+__label__german Ein Freund in der Not ist ein wahrer Freund.
+__label__english The grass is always greener on the other side.
+__label__spanish El césped siempre es más verde del otro lado.
+__label__french L'herbe est toujours plus verte de l'autre côté.
+__label__german Das Gras ist immer grüner auf der anderen Seite.
+__label__english Good things come to those who wait.
+__label__spanish Buenas cosas llegan a quienes esperan.
+__label__french Les bonnes choses arrivent à ceux qui attendent.
+__label__german Gute Dinge kommen zu denen, die warten.
