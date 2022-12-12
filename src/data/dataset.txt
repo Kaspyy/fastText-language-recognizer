@@ -387,3 +387,303 @@ __label__spanish Un punto a tiempo ahorra nueve.
 __label__spanish Una imagen vale más que mil palabras.
 __label__spanish Una piedra que rueda no recoge musgo.
 __label__spanish Vine, vi, vencí.
+__label__polish	Piękne są chmury płynące po niebie.
+__label__polish	Twój zegarek jest na biurku.
+__label__polish	Spójrz na dom z czerwonym dachem.
+__label__polish	Pogoda pogarszała się z upływem dnia.
+__label__polish	Jak dobrze pójdzie, robię 2-3 sztuki dziennie.
+__label__polish	Po drodze do domu wpadnę na pocztę.
+__label__polish	Mam w pokoju niezły burdel.
+__label__polish	Złapali nieprzyjaciela w zasadzkę.
+__label__polish	Jestem w ciąży.
+__label__polish	On ją kocha.
+__label__polish	Nasz nauczyciel zawsze przychodzi punktualnie na zajęcia.
+__label__polish	Rozdziel te jabłka na trzy osoby.
+__label__polish	Jutro mnie nie ma.
+__label__polish	Przyjdź też jutro!
+__label__polish	Idźcie prosto tą ulicą.
+__label__polish	On wystąpił w dubbingu do „Avatara”.
+__label__polish	Poprzysiągłem sobie nigdy już się do niej nie odzywać.
+__label__polish	On jest Anglikiem.
+__label__polish	W roku 1945 zrzucono bombę atomową na Hiroszimę.
+__label__polish	Ależ z ciebie kutwa!
+__label__polish	Roger pracuje od świtu do zmroku.
+__label__polish	Ta skrzynka zawiera pięć jabłek.
+__label__polish	Tłukłeś się z Kenem?
+__label__polish	Jego książka znana jest nie tylko w Anglii, ale i w Japonii.
+__label__polish	To jest tego samego koloru co moje.
+__label__polish	Jak zamierza naprawić wyrządzoną stratę?
+__label__polish	To, że jeszcze żyję, zawdzięczam tobie.
+__label__polish	„Jestem głodny!” – rzekł mały biały króliczek, więc zatrzymali się i zjedli dużego hiacynta.
+__label__polish	„Nickel” to moneta pięciocentowa.
+__label__polishogowie nazywają kulturą.
+__label__polish	W końcu wpadł na to, jak to się robi.
+__label__polish	Zaśpiewajmy tę angielską piosenkę.
+__label__polish	Z jakiegoś powodu mikrofon wcześniej nie działał.
+__label__polish	Zwyczajnie nie wiem, co powiedzieć...
+__label__polish	To, co powiedziałeś, nie ma sensu.
+__label__polish	Nic nie powiedział, co ją wkurzyło.
+__label__polish	Proszę pana, zostawił pan zapalniczkę na stole!
+__label__polish	Mówią, że w tej okolicy jest zakopany skarb.
+__label__polish	Proszę bardzo, nie ma za co.
+__label__polish	Z całym szacunkiem.
+__label__polish	Bez obaw.
+__label__polish	To dobry pomysł, żeby pograć w shogi po obiedzie.
+__label__polish	Umyj dobrze zęby.
+__label__polish	Ładna dziś pogoda.
+__label__polish	Dobranoc, Timmy.
+__label__polish	Nieważne.
+__label__polish	Nie rozumiem.
+__label__polish	Nie wiem.
+__label__polish	Dobre pytanie.
+__label__polish	Któż to wie?
+__label__polish	To za drogo!
+__label__polish	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.
+__label__polish	Cały dzień grałem w tenisa.
+__label__polish	Czy mówi pan po angielsku?
+__label__polish	Uważa się, ze to ważna sprawa.
+__label__polish	Nie jesteś winien tego wypadku.
+__label__polish	Wspomniano twoje nazwisko.
+__label__polish	Doprawdy? A myślałem, że wyjdzie za mąż jako ostatnia.
+__label__polish	Pożycz mi coś do cięcia.
+__label__polish	Od dawna jest pan w Osace?
+__label__polish	Nasz ogród był zachwaszczony.
+__label__polish	Obudziła się.
+__label__polish	Jak dla mnie, Australia jest jednym z najlepszych krajów na świecie.
+__label__polish	Jane ścięła włosy przed zawodami.
+__label__polish	Jaki jest ostateczny cel nauczania?
+__label__polish	Jest zależny finansowo od swej żony.
+__label__polish	Mój ojciec jest nieco staromodny.
+__label__polish	Mój wujek zmarł wczoraj na raka żołądka.
+__label__polish	Pan Wang jest z Chin.
+__label__polish	Niestety nie zdążyłem na jego wystąpienie.
+__label__polish	Ile kosztuje przejazd z Osaki do Akity?
+__label__polish	Spójrz na ten dym.
+__label__polish	Proszę, na przyszłość bardziej uważaj.
+__label__polish	Często mówi się, że Japończycy są dobrymi pracownikami.
+__label__polish	Udało mi się uzyskać zgodę rodziców na małżeństwo.
+__label__polish	Było już późno, więc wróciłem do domu.
+__label__polish	Astronomia zajmuje się gwiazdami i planetami.
+__label__polish	Z daleka wygląda to na piłkę.
+__label__polish	Nieważne, co czytasz, ale jak czytasz.
+__label__polish	Nie muszę ci się tłumaczyć z mojego postępowania.
+__label__polish	Eksport idzie marnie.
+__label__polish	Przez nierozważną jazdę napytał sobie biedy – zginął.
+__label__polish	Proszę załączyć świadectwo jakości.
+__label__polish	Bardzo nierozważnie jest pływać wśród takich prądów.
+__label__polish	Popełniłem koszmarny błąd.
+__label__polish	Sędzia skazał go na rok pozbawienia wolności.
+__label__polish	Spociłem się pod pachami.
+__label__polish	Co się zdarzyło na tym skrzyżowaniu?
+__label__polish	Pracowała wyłącznie dla pieniędzy.
+__label__polish	Ona nie znosi zielonego pieprzu.
+__label__polish	On nigdy nie traci nadziei.
+__label__polish	Mam wrażenie, że kiedyś już tu byłem.
+__label__polish	Nasz pociąg zatrzymał się nagle.
+__label__polish	Gdybyś był w kłopocie, pomógłbym ci.
+__label__polish	Przyszedł około czternastej.
+__label__polish	Uszczęśliwił rodziców.
+__label__polish	Jeśli wieczorem będzie padać, nie wyjdę z domu.
+__label__polish	Wrócił z Chin.
+__label__polish	Musisz tylko posprzątać pokój.
+__label__polish	Niewielu studentów umie czytać po łacinie.
+__label__polish	Na północy znajduje się Szkocja, na południu Anglia, na zachodzie Walia, a jeszcze dalej na zachód – Irlandia Północna.
+__label__polish	Jego ojczyzną są Niemcy.
+__label__polish	Czasami śni mi się dom.
+__label__polish	U nas w styczniu pada śnieg.
+__label__polish	Kura wysiadywała jaja przez tydzień.
+__label__polish	To Japonia.
+__label__polish	Czekałem na niego do dziesiątej.
+__label__polish	Powiedziałem sobie: to dobry pomysł.
+__label__polish	To najnowsza książka p. Millera i mamy nadzieję, że nie ostatnia.
+__label__polish	Zaproszono mnie na wycieczkę zagraniczną, ale nie chcę jechać.
+__label__polish	Co by nie robić, nie da się opanować angielskiego w kilka miesięcy.
+__label__polish	To najlepsza restauracja z owocami morza w całej dzielnicy.
+__label__polish	Nie wiń jej za to.
+__label__polish	Czytaj codziennie gazetę, inaczej nie będziesz na bieżąco.
+__label__polish	Pociąg spóźnia się pół godziny.
+__label__polish	Jego życzliwość była tylko na pokaz.
+__label__polish	Przyszła mi do głowy niezła myśl.
+__label__polish	Mówi pan po angielsku?
+__label__polish	Mój dom jest duży.
+__label__polish	Jest niezwykle przystojny.
+__label__polish	Nie lubię szkoły.
+__label__polish	Nie mówię po japońsku.
+__label__polish	Rak to wielki wróg ludzkości.
+__label__polish	Oto nasza szkoła.
+__label__polish	Włochy to piękny kraj.
+__label__polish	Przepraszam, zgubiłem się.
+__label__polish	Ta suknia dobrze leży.
+__label__polish	Lubię jazz.
+__label__polishicję.
+__label__polish	Miłość jest ślepa z natury rzeczy.
+__label__polish	Pojechałem autostradą numer 58.
+__label__polish	Mam dużo problemów do rozwiązania.
+__label__polish	Zimą szybko zapada noc.
+__label__polish	Bardzo lubi swoją szkołę.
+__label__polish	Co podać?
+__label__polish	Zostawiłem parasol w pociągu.
+__label__polishicja szybko rozprawiła się z zamieszkami.
+__label__polish	Co rano czyta gazetę.
+__label__polish	Do szkoły idę o siódmej.
+__label__polish	Dziewczyny sprzeciwiły się naszemu planowi.
+__label__polish	O której taksówka odjeżdża na lotnisko?
+__label__polish	Nie ma rzeczy ważniejszej niż przyjaźń.
+__label__polish	Może być jakiekolwiek czasopismo.
+__label__polish	To zdjęcie zrobiono w Narze.
+__label__polish	Tacie się to nie spodoba.
+__label__polish	Sto lat, Muiriel!
+__label__polish	Byłem w górach.
+__label__polish	W moim poduszkowcu jest pełno węgorzy.
+__label__polish	Poznaj mnie z jakąś ładną dziewczyną.
+__label__polish	Zwrócił uwagę synowi, że się leni.
+__label__polish	Jaka pogoda?
+__label__polish	Czy to świeże zdjęcie?
+__label__polish	Zaraz wracam.
+__label__polish	Powiedziałeś, że nigdy nie wygram?
+__label__polish	Czekam godzinami.
+__label__polish	Dobry wieczór, jak leci?
+__label__polish	Hiszpania jest krajem demokratycznym od 1975 roku.
+__label__polish	Paco maluje widoki miast.
+__label__polish	Późno już.
+__label__polish	Przepraszam bardzo.
+__label__polish	Gdzie on się urodził?
+__label__polish	Bardzo mi to pomogło.
+__label__polish	Urodził się w Atenach w roku 1956.
+__label__polish	Gorąco dziś.
+__label__polish	Wróciłem! O! Mamy gości?
+__label__polish	Spróbuję ponownie.
+__label__polish	Kiedy się urodziła?
+__label__polish	Mówiłem ci już, że go już tu nie ma.
+__label__polish	Zgubił się pan?
+__label__polish	Idziemy do kina?
+__label__polish	To nówka sztuka.
+__label__polish	Mam pytanie.
+__label__polish	Kocham cię.
+__label__polish	Co robisz przed śniadaniem?
+__label__polish	Nie lubię sposobu w jaki on mówi.
+__label__polish	Ja też chciałbym pojechać sobie na Hawaje.
+__label__polish	Jeszcze nie odzyskał przytomności.
+__label__polish	Kiedy się ożeniłeś?
+__label__polish	Mógłby pan wysłać mi ten list mailem?
+__label__polish	Staruszek lubi przesadzać.
+__label__polish	Japonia zużywa dużo papieru.
+__label__polish	Ona ma trzech braci.
+__label__polish	Możesz jechać, gdzie ci się podoba.
+__label__polish	Zrób kawy.
+__label__polish	Nie przywykłem do publicznych wystąpień.
+__label__polishega na opiece nad dziećmi.
+__label__polish	Dostałem od dziadka prezent na urodziny.
+__label__polish	Czy jest tu gdzieś centrum handlowe?
+__label__polish	Trwa budowa nowej szkoły.
+__label__polish	Jestem głodny jak wilk.
+__label__polish	Co znaczy to słowo?
+__label__polish	W języku angielskim jest dużo wyrazów zapożyczonych z francuskiego.
+__label__polish	Sen jest ważny, ale po co istnieje - to stanowi zagadkę.
+__label__polish	Jest biedna, ale szczęśliwa.
+__label__polish	Czy jest jakieś zagraniczne piwo?
+__label__polish	Byłem wtedy dzieckiem.
+__label__polish	Ona jest zdania, że wszystko jest kwestią pieniędzy.
+__label__polish	Muszę iść spać.
+__label__polish	Nie chcieć oznacza mieć.
+__label__polish	Niestety to prawda.
+__label__polish	To dlatego, że nie chcesz być sam.
+__label__polish	Samotny człowiek jest sam, bo się obawia innych.
+__label__polish	Zarabiam 100 euro dziennie.
+__label__polish	Wyglądasz na durnia.
+__label__polish	Musisz iść.
+__label__polish	Hasło brzmi „Muiriel”.
+__label__polish	Idź spać.
+__label__polish	Chciałbym móc pojechać do Japonii.
+__label__polish	Znalazłem rozwiązanie, ale coś za szybko, więc nie może być poprawne.
+__label__polish	To się nigdy nie skończy.
+__label__polish	Jesteśmy szczęśliwi.
+__label__polish	Co to?
+__label__polish	Chociaż przeprosił, ja wciąż jestem wściekły.
+__label__polish	Zrobiłem wielki błąd przy wyborze żony.
+__label__polish	W naszych szacunkach założyliśmy margines błędu.
+__label__polish	Studiuję na uniwersytecie Hyōgo.
+__label__polish	Zdecyduj, czy idziemy, czy nie.
+__label__polish	Na pewno kiedyś pojadę do Francji, tylko nie wiem kiedy.
+__label__polish	Muszę iść po zakupy, będę za godzinę.
+__label__polish	Nie należę do żadnego klubu.
+__label__polish	Za długo by objaśniać, dlaczego to nie zadziała.
+__label__polish	Zgadza się. Jest dużo wilgoci w powietrzu.
+__label__polish	Jesteś pewien?
+__label__polish	Czy są wolne miejsca?
+__label__polish	Niebo jest błękitne.
+__label__polish	Gdzie są moje okulary?
+__label__polish	Biały jacht płynął po falach.
+__label__polish	To nasza sąsiadka.
+__label__polish	Matka była wykończona.
+__label__polish	Powinna tu być około południa.
+__label__polish	Zapisała się na kurs hiszpańskiego.
+__label__polish	Nie może chodzić, a cóż dopiero biegać.
+__label__polish	Chyba mu na mnie nie zależy.
+__label__polish	Nie lubi upałów.
+__label__polish	Miło się z nią rozmawiało.
+__label__polish	Nie licz na jego pomoc.
+__label__polish	Jako obywatel świata, umiem przekraczać bariery kulturowe.
+__label__polish	Kłopot w tym, że mamy mało pieniędzy.
+__label__polish	Nie lubię takiej muzyki.
+__label__polish	On zawsze się spóźnia do szkoły.
+__label__polish	Zatrzymasz to dla siebie?
+__label__polish	Są dobrą parą.
+__label__polish	Dziewczyna, która rozmawia z Johnem, to Susan.
+__label__polish	Proszę wezwać ochronę hotelu.
+__label__polish	Wierzę w tę metodę nauczania.
+__label__polish	Ma głowę do interesów.
+__label__polish	Zaczęło świtać, długa noc się skończyła.
+__label__polish	To był zły królik.
+__label__polish	Cześć, jestem Nancy.
+__label__polish	Co robisz?
+__label__polish	Halo, jesteś jeszcze?
+__label__polish	Muiriel ma teraz 20 lat.
+__label__polish	Dzieci wyglądają na zmęczone pływaniem.
+__label__polish	Nie dane mu było spotkać się z nią ponownie.
+__label__polish	Seria wybuchów obróciła pracownię w ruinę.
+__label__polish	Japonia ma wiele cech szczególnych.
+__label__polish	Film trwał 2 godziny.
+__label__polish	Jak daleko jest do lotniska?
+__label__polish	Cieszę się, że cię znów widzę.
+__label__polish	Poproszę do hotelu Hilton.
+__label__polish	Zwykle to ja myję naczynia.
+__label__polish	Nie zapominaj, że mamy zadanie domowe.
+__label__polish	Deszcz pada.
+__label__polish	Chciałbym filiżankę kawy.
+__label__polish	Pamiętasz mnie?
+__label__polish	Już nie chcę.
+__label__polish	To jest mojego brata.
+__label__polish	Nie brakuje niczego.
+__label__polish	Weź książkę i przeczytaj ją!
+__label__polish	Powiedział mi, że pojedzie do Wenecji.
+__label__polish	Zimno.
+__label__polish	Odpowiedz na pytanie.
+__label__polish	Kiedy byłem mały, czytałem godzinami, sam w swoim pokoju.
+__label__polish	Jaką masz grupę krwi?
+__label__polish	Pamiętam pierwszy raz.
+__label__polish	Był ubogi, ale nie pożyczał pieniędzy od innych.
+__label__polish	Nie ma wątpliwości, że jest utalentowana.
+__label__polish	Poczta przychodzi przed południem.
+__label__polish	Przestraszyłem się, mijając go.
+__label__polish	Jak możemy się upewnić co do jego uczciwości?
+__label__polish	Idę.
+__label__polish	Nie, to nie jest mój nowy chłopak.
+__label__polish	Nie wiem, jak to udowodnić, to zbyt oczywiste.
+__label__polish	Zamówiłem dwa hamburgery.
+__label__polish	Mogę się tylko domyślać, czy tak samo sądzą inni.
+__label__polish	Nie jestem wielkim podróżnikiem.
+__label__polish	Każdy ma swoje silne i słabe strony.
+__label__polish	Jego smutna historia poruszyła mnie.
+__label__polish	Świeczka sama zgasła.
+__label__polish	Ojciec zabronił mi czytać książki w łóżku.
+__label__polish	Zostajesz w domu dziś wieczorem?
+__label__polish	Przyznanie się do winy to połowa drogi do jej wybaczenia.
+__label__polish	Jaka praca, taka płaca.
+__label__polish	Boję się spadania.
+__label__polish	Skąd pochodzisz?
+__label__polish	To będzie kosztować 30 euro.
+__label__polish	Film trwał dwie godziny.
+__label__polish	Oto reszta.
+__label__polish	Chciałbym odebrać swoje kosztowności.
+__label__polish	W Wenecji jest zawsze wielu turystów.
