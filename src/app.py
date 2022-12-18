@@ -1,14 +1,24 @@
 import fasttext
 import fasttext.util
 import os
+import csv
 
-# train model if not already trained
-if not os.path.exists("model/model.bin"):
-    model = fasttext.train_supervised(input="data/dataset.txt")
-    model.save_model("model/model.bin")
+
+# # train model if not already trained
+# if not os.path.exists("src\model\model3.bin"):
+#     model = fasttext.train_supervised(input='src\data\dataset.txt')
+#     model.save_model("src\model\model3.bin")
 
 # load model
-model = fasttext.load_model("model/model.bin")
+model = fasttext.load_model("src\model\model2.bin")
+
+
+with open('src\language-codes_csv.csv', mode='r') as infile:
+    reader = csv.reader(infile)
+    land_dict = {rows[0]:rows[1] for rows in reader}
+
+# print(land_dict)
+
 
 while True:
     # Prompt the user for input and use the model to predict the language
@@ -20,9 +30,14 @@ while True:
         break
 
     # Use the model to predict the language of the input
-    predicted_language = model.predict(user_input, threshold=0.6)[0][0]
+    # predicted_language = model.predict(user_input, threshold=0.6)[0][0]
+    predicted_language = model.predict(user_input, k=3 )
 
-    # Remove the "__label__" prefix from the predicted language
-    predicted_language = predicted_language.replace("__label__", "")
+    predicted_language_accuracy = predicted_language[1]
+    predicted_language = predicted_language[0]
 
-    print(f"The predicted language is: {predicted_language}")
+    for l, a in zip(predicted_language, list(predicted_language_accuracy)):
+        # Remove the "__label__" prefix from the predicted language
+        l = l.replace("__label__", "")
+        language = land_dict[l]
+        print("The predicted language is: {}\t Probability: {:.2f}%".format( language, a*100))
